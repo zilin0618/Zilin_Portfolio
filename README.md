@@ -9,8 +9,7 @@ This is a simple practice of EDA by using Python Pandas & Python Matplotlib to a
 
 I started by cleaning the data. Next, I move to the data exploration section, in this section 5 high level business questions were explored related to the data:
 * What was the best month for sales? How much was earned that month?
-<img src="https://github.com/zilin0618/Sales_Analysis/blob/master/Images/Sales_analysis1.JPG" width="200">
-![](https://github.com/zilin0618/Sales_Analysis/blob/master/Images/Sales_analysis1.JPG)
+<img src="https://github.com/zilin0618/Sales_Analysis/blob/master/Images/Sales_analysis1.JPG" width="400" height="400">
 * What city sold the most product?
 ![](https://github.com/zilin0618/Sales_Analysis/blob/master/Images/Sales_analysis2.JPG)
 * What time should we display advertisemens to maximize the likelihood of customer’s buying product?
