@@ -14,5 +14,5 @@ I started by cleaning the data. Next, I move to the data exploration section, in
 * What products are most often sold together?
 * What product sold the most? Why do you think it sold the most?
 
-To answer these questions many different pandas & matplotlib methods were applieed. Detailed Code can be found by click the title or [here](https://github.com/zilin0618/Sales_Analysis/blob/master/Zilin%20Sales%20Analysis%20Project.ipynb)
+To answer these questions many different pandas & matplotlib methods were applieed. Detailed Code can be found by click the title or [here](https://github.com/zilin0618/Sales_Analysis/blob/master/Zilin%20Sales%20Analysis%20Project.ipynb).
 
