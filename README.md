@@ -21,3 +21,11 @@ I started by cleaning the data. Next, I move to the data exploration section, in
 
 To answer these questions many different pandas & matplotlib methods were applieed. Detailed Code can be found by click the title or [here](https://github.com/zilin0618/Sales_Analysis/blob/master/Zilin%20Sales%20Analysis%20Project.ipynb).
 
+### [2. Customer Churn Project](https://github.com/zilin0618/Customer_Churn_Project)
+Customer churn refers to the natural business cycle of losing customers. In this project the goal is to use data analytics techniques to help the company in characterizing its customer churn in order to predict which customers would churn in near future. Decision tree and Naïve Bayes classification algorithms were applied to compare machine learning models with different features.
+
+I started by utilizing Python libraries to process over 3k raw data, and then cleaned up the data by eliminating missing values, duplicate values and unnecessary columns. After that, I conducted deep exploratory data analysis to identify important features, correlations, and analyzed customer behaviors based on different segments. A Decision Tree model and a Naïve Bayes model were build to classify customers that would churn in near feature. To evaluate the performance of two models Cross Validation method was applied, dataset was split into training and testing set, after comparison, the decision tree model had a better performance and achieved a 93% model accuracy.
+Result of Decision Tree model:
+<img src="https://github.com/zilin0618/Customer_Churn_Project/blob/main/images/result.JPG" width="600" height="300">
+Result of Naïve Bayes classification model:
+<img src="https://github.com/zilin0618/Customer_Churn_Project/blob/main/images/NB_result.JPG" width="600" height="300">
