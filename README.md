@@ -30,3 +30,8 @@ Result of Decision Tree model:\
 
 Result of Naïve Bayes classification model:\
 <img src="https://github.com/zilin0618/Customer_Churn_Project/blob/main/images/NB_result.JPG" width="500" height="250">
+
+
+## Tableau Projects
+### [Daily Business Overview (Tableau Visualization)](https://public.tableau.com/authoring/DailyBusinessOverviewReport/Dashboard1#1)
+
