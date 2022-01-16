@@ -33,5 +33,6 @@ Result of Naïve Bayes classification model:\
 
 
 ## Tableau Projects
-### [Daily Business Overview (Tableau Visualization)](https://public.tableau.com/authoring/DailyBusinessOverviewReport/Dashboard1#1)
+### [Daily Business Overview (Tableau Visualization)](https://public.tableau.com/app/profile/zilin.wang2962/viz/DailyBusinessOverviewReport/Dashboard1#1)
+
 
