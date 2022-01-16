@@ -35,7 +35,7 @@ Result of Naïve Bayes classification model:\
 ## Tableau Projects
 ### [Business Overview (Tableau Visualization)](https://public.tableau.com/app/profile/zilin.wang2962/viz/DailyBusinessOverviewReport/Dashboard1#1)
 The objective of this project is to create an Tableau Dashboard to visualize the daily business data and the overview of business. 
-Data Background: The dataset was obtained from two restaurants located in Shanghai, China. The dataset recorded their daily business information on the food delivery platforms, since the food delivery is one of the most popular ways of people getting their food.
+Data Background: The dataset was obtained from two restaurants located in Shanghai, China. The dataset recorded their daily business information on the food delivery platforms, since the food delivery is one of the most popular ways of people getting their food.\
 Attribute Information:
 * GMV: Gross merchandise value (GMV) is the total value of merchandise sold over a given period of time. 
 * 商家实收: The money that business owner actually get
