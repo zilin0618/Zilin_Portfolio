@@ -47,4 +47,4 @@ Attribute Information:
 * CPC总费用: Total value of CPC (cost per click)
 
 ### DashBoard Illustration
-<img src="https://public.tableau.com/app/profile/zilin.wang2962/viz/DailyBusinessOverviewReport/Dashboard1#1" width="500" height="900">
+
