@@ -46,5 +46,8 @@ Attribute Information:
 * 平台补贴: Discount values that the platforms provided
 * CPC总费用: Total value of CPC (cost per click)
 
-### DashBoard Illustration
+### DashBoard Illustration\
+<img src="https://github.com/zilin0618/Daily_Business_Overview_Tableau-/blob/main/Web%20capture_16-1-2022_14524_public.tableau.com.jpeg" width="750" height="900">
+
+If you want to look at the detailed dashboard or play with the filter you can click the title or [here](https://public.tableau.com/app/profile/zilin.wang2962/viz/DailyBusinessOverviewReport/Dashboard1#1)
 
