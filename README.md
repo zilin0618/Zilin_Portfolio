@@ -32,7 +32,7 @@ Result of Naïve Bayes classification model:\
 <img src="https://github.com/zilin0618/Customer_Churn_Project/blob/main/images/NB_result.JPG" width="500" height="250">
 
 
-## Tableau Projects
+## Tableau Project
 ### [Business Overview (Tableau Visualization)](https://public.tableau.com/app/profile/zilin.wang2962/viz/DailyBusinessOverviewReport/Dashboard1#1)
 The objective of this project is to create an Tableau Dashboard to visualize the daily business data and the overview of business. 
 Data Background: The dataset was obtained from two restaurants located in Shanghai, China. The dataset recorded their daily business information on the food delivery platforms, since the food delivery is one of the most popular ways of people getting their food.\
@@ -51,3 +51,7 @@ Attribute Information:
 
 If you want to look at the detailed dashboard or play with the filter you can click the title or [here](https://public.tableau.com/app/profile/zilin.wang2962/viz/DailyBusinessOverviewReport/Dashboard1#1)
 
+## Excel Project
+### [Weekly Report](https://github.com/zilin0618/Weekly_Report_EXCEL)
+The dataset was obtained from two restaurants located in Shanghai, China. The dataset recorded their daily business information on the food delivery platforms, since the food delivery is one of the most popular ways of people getting their food.The objective of this project is to create an Excel weekly report to visualize the weekly business data and the overview of business. \
+<img src="https://github.com/zilin0618/Weekly_Report_EXCEL/blob/main/weekly_report.JPG" width="500" height="250">
