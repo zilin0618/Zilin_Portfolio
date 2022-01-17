@@ -31,6 +31,11 @@ Result of Decision Tree model:\
 Result of Naïve Bayes classification model:\
 <img src="https://github.com/zilin0618/Customer_Churn_Project/blob/main/images/NB_result.JPG" width="500" height="250">
 
+### [3. Yelp Recommendation System Project](https://github.com/zilin0618/YELP_recommender_system)
+The objective of this project was to build a restaurant recommender system to provide a personalized restaurant recommendation.\
+The datasets were downloaded from Yelp, which includes the datasets of the restaurant and user reviews.\
+After data preprocessing, all necessary data were merged into one CSV file and then split into 70% training and 30 testing datasets. There are several approaches to build such system. This project shows several examples such as memory-based collaborative filtering (CF), model-based CF, and text-based CF techniques was applied to predict the rating or preference that a user would give to the restaurant. 
+This project report can be seen [here](https://github.com/zilin0618/YELP_recommender_system/blob/main/CIND820_Final_Report.docx)
 
 ## Tableau Project
 ### [Business Overview (Tableau Visualization)](https://public.tableau.com/app/profile/zilin.wang2962/viz/DailyBusinessOverviewReport/Dashboard1#1)
