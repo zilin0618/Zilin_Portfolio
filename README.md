@@ -37,6 +37,19 @@ The datasets were downloaded from Yelp, which includes the datasets of the resta
 After data preprocessing, all necessary data were merged into one CSV file and then split into 70% training and 30 testing datasets. There are several approaches to build such system. This project shows several examples such as memory-based collaborative filtering (CF), model-based CF, and text-based CF techniques was applied to predict the rating or preference that a user would give to the restaurant. 
 This project report can be seen [here](https://github.com/zilin0618/YELP_recommender_system/blob/main/CIND820_Final_Report.docx)
 
+### [4. Online_Retail Project](https://github.com/zilin0618/Online_Retail/blob/main/README.md)
+The objective of this project was to extract Association Rules by using Frequent Patterm Mining algorithm (FPGrowth Tree).\
+Attribute Information:
+InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
+StockCode: Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product.
+Description: Product (item) name. Nominal.
+Quantity: The quantities of each product (item) per transaction. Numeric.
+InvoiceDate: Invice Date and time. Numeric, the day and time when each transaction was generated.
+UnitPrice: Unit price. Numeric, Product price per unit in sterling.
+CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
+Country: Country name. Nominal, the name of the country where each customer resides.
+
+
 ## Tableau Project
 ### [Business Overview (Tableau Visualization)](https://public.tableau.com/app/profile/zilin.wang2962/viz/DailyBusinessOverviewReport/Dashboard1#1)
 The objective of this project is to create an Tableau Dashboard to visualize the daily business data and the overview of business. 
