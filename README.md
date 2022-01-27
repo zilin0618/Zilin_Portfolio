@@ -39,7 +39,8 @@ This project report can be seen [here](https://github.com/zilin0618/YELP_recomme
 
 ### [4. Online Retail Project](https://github.com/zilin0618/Online_Retail/blob/main/README.md)
 The objective of this project was to extract Association Rules by using Frequent Patterm Mining algorithm (FPGrowth Tree).\
-The detiled code can be seen [here](https://github.com/zilin0618/Online_Retail/blob/main/Online_Retail.ipynb)
+The detiled code can be seen [here](https://github.com/zilin0618/Online_Retail/blob/main/Online_Retail.ipynb).
+
 Attribute Information:
 * InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
 * StockCode: Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product.
